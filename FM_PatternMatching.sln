@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FM_PatternMatching", "FM_PatternMatching\FM_PatternMatching.csproj", "{19596D77-D5A1-4C14-9121-EDB27C58BB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FM_UnitTests", "FM_UnitTests\FM_UnitTests.csproj", "{91EC20DB-9233-4864-B176-495A6605ABE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19596D77-D5A1-4C14-9121-EDB27C58BB68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19596D77-D5A1-4C14-9121-EDB27C58BB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19596D77-D5A1-4C14-9121-EDB27C58BB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19596D77-D5A1-4C14-9121-EDB27C58BB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91EC20DB-9233-4864-B176-495A6605ABE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91EC20DB-9233-4864-B176-495A6605ABE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91EC20DB-9233-4864-B176-495A6605ABE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91EC20DB-9233-4864-B176-495A6605ABE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D08B999-9B4B-4123-8B80-ABED246D8529}
+	EndGlobalSection
+EndGlobal
